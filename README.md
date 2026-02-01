@@ -25,7 +25,6 @@ My unwavering commitment to continuous learning fuels my growth. I thrive in dyn
 - [Data Visualization Dashboard](https://github.com/Ankith-Kulkarni/Blinkit-sales-dashboard) – “Blinkit Sales Analytics Dashboard – Interactive sales analytics dashboard built with Streamlit, Python, and Pandas.”  
 
 ## 📌 Showcase
-## 📌 Showcase
 Explore more of my work in my [GitHub repositories](https://github.com/Ankith-Kulkarni?tab=repositories).
 
 ## 🌐 Connect with Me
