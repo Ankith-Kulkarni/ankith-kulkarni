@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Ankith Kulkarni
 
 ## 🎓 Education
-I hold a Bachelor of Commerce (Honours) degree from Avinash College of Commerce, where my journey ignited a passion for solving problems involving numbers and calculations.
+I hold a **Bachelor of Commerce (Honours)** degree from Avinash College of Commerce, where my journey ignited a passion for solving problems involving numbers and calculations.
 
 ## 💻 Experience
 I am currently working as an **Associate Consultant at The Business Research Company**, where I contribute to market research, data analysis, and strategic insights for global clients. My role involves leveraging analytical tools and frameworks to deliver actionable business intelligence and support decision‑making.
