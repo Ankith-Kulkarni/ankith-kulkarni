@@ -28,7 +28,6 @@ My unwavering commitment to continuous learning fuels my growth. I thrive in dyn
 Explore more of my work in my [GitHub repositories](https://github.com/Ankith-Kulkarni?tab=repositories).
 
 ## 🌐 Connect with Me
-LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankith-kulkarni-data/)  
 📧 Email: ankithsonu147@gmail.com  
 🔗 GitHub: [Ankith-Kulkarni](https://github.com/Ankith-Kulkarni)
