@@ -22,7 +22,8 @@ My unwavering commitment to continuous learning fuels my growth. I thrive in dyn
 - **Tools**: VS Code, Git  
 
 ## 📂 Featured Projects
-- [Data Visualization Dashboard](https://github.com/Ankith-Kulkarni/Blinkit-sales-dashboard) – “Blinkit Sales Analytics Dashboard – Interactive sales analytics dashboard built with Streamlit, Python, and Pandas.”  
+- [Data Visualization Dashboard](https://github.com/Ankith-Kulkarni/Blinkit-sales-dashboard) – “Blinkit Sales Analytics Dashboard – Interactive sales analytics dashboard built with Streamlit, Python, and Pandas.”
+- [AI‑Powered Job Application Intelligence System](github.com/Ankith-Kulkarni/AI-Job-Application-Intelligence) - End‑to‑end Streamlit app built with Python, SQLite, and Scikit‑learn. Implements a Random Forest model to predict interview selection probability, helping job seekers prioritize applications and improve success rates. Provides real‑time tracking, analytics, and actionable insights for career planning.  
 
 ## 📌 Showcase
 Explore more of my work in my [GitHub repositories](https://github.com/Ankith-Kulkarni?tab=repositories).
