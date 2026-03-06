@@ -7,8 +7,8 @@ I hold a **Bachelor of Commerce (Honours)** degree from Avinash College of Comme
 I am currently working as an **Associate Consultant at The Business Research Company**, where I contribute to market research, data analysis, and strategic insights for global clients. My role involves leveraging analytical tools and frameworks to deliver actionable business intelligence and support decision‑making.
 
 ## 🚀 Current Endeavours
-I am on a learning adventure with **Topmentor**, specializing in **Masters in Data Science with Gen AI**. Here, I explore advanced data analysis techniques, implement machine learning algorithms, and actively contribute to real‑world projects.  
-In a recent project, I developed an interactive **Blinkit Sales Analytics Dashboard** using Python, Streamlit, Pandas, Matplotlib, and NumPy. The dashboard enabled stakeholders to explore sales data, track KPIs such as total and average sales, item counts, and outlet‑wise performance, while uncovering sales patterns and category‑level trends for data‑driven decision‑making.
+I am on a learning journey with Topmentor, specializing in Masters in Data Science with Gen AI. Here, I explore advanced data analysis techniques, implement machine learning algorithms, and actively contribute to real‑world projects.  
+Recently, I developed an interactive AI‑Powered Job Application Intelligence System using Python, Streamlit, SQLite, and Scikit‑learn. The system predicts interview selection probability with a Random Forest model, helping job seekers prioritize applications and improve success rates. I also built a Zomato Sales & Customer Insights Dashboard in Power BI, delivering KPIs such as revenue, order volume, and customer ratings, with dynamic filters for cuisine and location. These projects showcase my ability to transform raw data into actionable insights, enabling stakeholders to make smarter, data‑driven decisions.
 
 
 ## 🔍 What Sets Me Apart
